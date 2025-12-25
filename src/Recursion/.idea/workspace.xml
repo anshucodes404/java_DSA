@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f42de200-1eca-4dd8-8ec1-ec3a31798fbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/ArrayListExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/FindNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Findmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/RichestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/SumIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/SwapArraj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/variable_argument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BS2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BS3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BS4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BS6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/RotatedBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/RotationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/SearchInfinite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/SearchMountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/SearchRBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/SortedMatrixSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/TwoDimarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/.idea/BitWise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/FlipanImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/GetBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/MagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/Noofdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/OddorEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/Pascaltrianglesum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/Poweroftwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/RightmostSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/RightmostSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/SetBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/SetbitCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/Singleelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/Uniquenum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitWise/XORinrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA_CompleteNotes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Complete_Notes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/BinarySearchSQRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/EfficientFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/GCD_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/NewtonSQRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/PrimeNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/UnderPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathsForDSA/UnderPrimeprac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindAllIndices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindAllIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearchRecurssion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearchRecurssion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns Via Recursion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RevNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotatedBinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotatedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort_Q/Q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort_Q/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort_Q/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort_Q/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort_Q/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort_Q/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Cyclic_Sort_Q/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/Str_StrBuil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns Via Recursion/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns Via Recursion/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/Patterns Via Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns Via Recursion/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/MergeSortInPlace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/Patterns Via Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns Via Recursion/out/production/Patterns Via Recursion/Triangle.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Patterns Via Recursion" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2z7N2KCPnn416TunpbHfB2Lhr4R" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Data Structures/Recursion",
+    "settings.editor.selected.configurable": "MTFeaturesSettingsConfigurable"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f42de200-1eca-4dd8-8ec1-ec3a31798fbb" name="Changes" comment="" />
+      <created>1751077942876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751077942876</updated>
+    </task>
+    <servers />
+  </component>
+</project>
