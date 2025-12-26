@@ -9,9 +9,15 @@ public class Main {
 //        tree.display();
 //        tree.prettyDisplay();
 
-          BinarySearchTree bst = new BinarySearchTree();
-          int[] nums = {3, 5, 8, 12, 56, 1, 6};
-          bst.populate(nums);
-          bst.display();
+//          BinarySearchTree bst = new BinarySearchTree();
+//          int[] nums = {3, 5, 8, 12, 56, 1, 6};
+//          bst.populate(nums);
+//          bst.display();
+
+          AVL tree = new AVL();
+          for(int i = 1; i <= 10; i++){
+              tree.insert(i);
+          }
+          System.out.println(tree.height());
     }
 }

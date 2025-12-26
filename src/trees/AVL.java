@@ -1,6 +1,7 @@
 package trees;
 
 public class AVL {
+
     public static class Node {
         private int value;
         private int height;
@@ -9,6 +10,7 @@ public class AVL {
 
         public Node(int value) {
             this.value = value;
+            this.height = 0; // leaf height = 0
         }
 
         public int getValue() {
@@ -21,6 +23,10 @@ public class AVL {
 
     public AVL() {
 
+    }
+
+    public int height(){
+        return height(root);
     }
 
     public int height(Node node) {
@@ -61,9 +67,63 @@ public class AVL {
             node.right = insert(value, node.right);
         }
 
-        node.height = Math.max(height(node.left), height(node.right)) + 1; // yaha par ek node karne pe height badha
-        // hoga isliye
+        node.height = Math.max(height(node.left), height(node.right)) + 1;
+        return rotate(node);
+    }
+
+    private Node rotate(Node node){
+        int balance = height(node.left) - height(node.right);
+
+        if (balance > 1) {
+            // left heavy
+            if (height(node.left.left) - height(node.left.right) >= 0) {
+                // left-left
+                return rightRotate(node);
+            } else {
+                // left-right
+                node.left = leftRotate(node.left);
+                return rightRotate(node);
+            }
+        } else if (balance < -1) {
+            // right heavy
+            if (height(node.right.left) - height(node.right.right) <= 0) {
+                // right-right
+                return leftRotate(node);
+            } else {
+                // right-left
+                node.right = rightRotate(node.right);
+                return leftRotate(node);
+            }
+        }
         return node;
+    }
+
+    private Node leftRotate(Node node){
+        Node p = node.right;
+        Node t = p.left;
+
+        node.right = t;
+        p.left = node;
+
+        // updating the heights (fix: +1 applied after Math.max)
+        node.height = Math.max(height(node.left), height(node.right)) + 1;
+        p.height = Math.max(height(p.left), height(p.right)) + 1;
+
+        return p;
+    }
+
+    private Node rightRotate(Node node){
+        Node c = node.left;
+        Node t = c.right;
+
+        c.right = node;
+        node.left = t;
+
+        // updating the heights
+        node.height = Math.max(height(node.left), height(node.right)) + 1;
+        c.height = Math.max(height(c.left), height(c.right)) + 1;
+
+        return c;
     }
 
     public boolean balanced() {
